@@ -1,5 +1,5 @@
 # Excel_Coffee-Sales_Dashboard
-This project showcases a fully interactive Coffee Sales Dashboard built in Microsoft Excel. The dashboard is designed to track and visualize coffee sales performance across different coffee types, countries, and customers. It combines key Excel functions and features to deliver a professional, data-driven tool for decision-making.
+This Coffee Sales Dashboard is a fully interactive Excel-based business intelligence tool designed to provide a visual and analytical overview of coffee sales performance over time. Built using advanced Excel features and formulas, the dashboard allows users to monitor trends, filter insights, and make informed business decisions with ease.
 
 
 Key Features:
@@ -14,9 +14,9 @@ Displays core performance indicators at the top of the dashboard:
 These metrics automatically update based on timeline filters.
 
 📈 Line Chart – Sales Over Time by Coffee Type:
-1)Shows total sales trends over time
-2)Segmented by four coffee types: Arabica, Excelsa, Liberica, and Robusta
-3)Helps identify performance patterns and product popularity
+1)A multi-line chart that shows monthly sales trends from 2019 to 2022.
+2)Visualizes performance across four coffee types: Arabica, Excelsa, Liberica, and Robusta.
+3)Helps identify seasonal trends, spikes, and dips in product demand.
 
 📊 Bar Chart – Sales by Country:
 1)Compares sales performance across three regions:
@@ -25,7 +25,7 @@ United States, Ireland, and United Kingdom
 
 🏆 Top 5 Customers Chart:
 1)Highlights the top five customers based on total purchases
-2)Enables targeted marketing and customer retention efforts
+2)Assists in understanding geographic market performance and opportunities.
 
 ⏱ Interactive Timeline Slicer:
 1)Allows users to filter all charts and KPIs by date
